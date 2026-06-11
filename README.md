@@ -1,9 +1,7 @@
-<h1 align="left">Hey 👋 I'm Jet!</h1>
+<h1 align="left">👋 Hi, I'm Jet!</h1>
 
-## 💫 About Me
 I'm a Full-Stack Developer from the Philippines. 🇵🇭
 
-## 🌐 My Socials
 <div align="left">
   <a href="www.linkedin.com/in/jetromero" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
