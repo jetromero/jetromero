@@ -7,7 +7,7 @@
 * When I need to disconnect from the screen, I spend my time reading the Gospels to know Christ more deeply and keep my life grounded in what truly matters.
 
 <div align="left">
-  <a href="www.linkedin.com/in/jetromero" target="_blank">
+  <a href="https://linkedin.com/in/jetromero" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
   </a>
   
