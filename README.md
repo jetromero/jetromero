@@ -24,7 +24,7 @@
   </a>
 </div>
 
-## 💻 Tech Stack:
+## 💻 Tech Arsenal:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
@@ -73,6 +73,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jetromero&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jetromero&theme=github_dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jetromero&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" />
 </div>
 
