@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hi, I'm Jet!</h1>
 
-* I’m a Full-Stack Developer who bridges the gap between frontend flair and backend logic, mostly by arguing with TypeScript until it finally does what I want.
+* I’m an aspiring Full-Stack Developer who bridges the gap between frontend flair and backend logic, mostly by arguing with TypeScript until it finally does what I want.
 * I’m pursuing my Master's in IT while teaching on the side, which means I'm getting an advanced degree just to professionally explain to students why their code works on my machine but not theirs.
 * My tech stack is a United Nations of languages including React, Node, Flutter, and Python, all held together by Git commits and sheer willpower.
 * When I’m not debugging, I’m playing strategy games to optimize team synergy and manage resources, which is essentially just corporate project management but with much better graphics.
