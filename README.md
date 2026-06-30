@@ -5,7 +5,7 @@
 * My tech stack is a United Nations of languages including React, Node, Flutter, and Python, all held together by Git commits and sheer willpower.
 * When I’m not debugging, I’m playing strategy games to optimize team synergy and manage resources, which is essentially just corporate project management but with much better graphics.
 * When I need to disconnect from the screen, I spend my time reading the Gospels to know Christ more deeply and keep my life grounded in what truly matters.
-
+<br/>
 <div align="left">
   <a href="https://linkedin.com/in/jetromero" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
