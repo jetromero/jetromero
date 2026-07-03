@@ -66,10 +66,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jetromero&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"><br/>
-</div>
-
